@@ -1,0 +1,192 @@
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form2.resources
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form3.resources
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form4.resources
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe.config
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form5.resources
+C:\Users\Furkan\source\repos\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CopyComplete
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe.config
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form1.resources
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form2.resources
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form3.resources
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form4.resources
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Form5.resources
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CopyComplete
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\Furkan\Desktop\murat yücedağ\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe.config
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe.config
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.FrmAnasayfa.resources
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Frmİstatistik.resources
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.FrmGrafikler.resources
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.FrmGirişEkranı.resources
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.FrmRaporlar.resources
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.CopyComplete
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\Furkan\Desktop\murat yücedağ\10- SQL (personel sistemi projesi)\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
